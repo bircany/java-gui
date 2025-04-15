@@ -1,5 +1,4 @@
 # java-gui
-This Repo is used for components and training purposes of Swing and JavaFX libraries for Java GUI.
 Bu doküman, Java'nın iki temel GUI (Graphical User Interface) kütüphanesi olan Swing ve JavaFX arasındaki farkları, benzerlikleri ve karşılık gelen bileşenleri açıklar.
 # **Java GUI Kütüphaneleri: Swing vs JavaFX**
 
